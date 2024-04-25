@@ -152,7 +152,7 @@ margin-bottom: 50px;
 
 ~~~
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-25 203032.png>)
+![alt text](<Screenshot 2024-04-25 203612.png>)
 ![alt text](<Screenshot 2024-04-25 203141.png>)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
